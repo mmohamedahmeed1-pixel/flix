@@ -34,7 +34,7 @@ function Footer() {
           {footerLinks.map((link, index) => (
             <a 
               key={index} 
-              href="#" 
+              href="#!" 
               style={{ 
                 color: '#808080', 
                 textDecoration: 'none',
